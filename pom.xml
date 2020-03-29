@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.dmitrib</groupId>
-    <artifactId>hadoop-tools</artifactId>
+    <artifactId>hadoop-pipeline</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
